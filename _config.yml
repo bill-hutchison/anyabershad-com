@@ -16,8 +16,8 @@ footer_text: >
 
 icon: 🧠  # the emoji used as the favicon
 
-url: https://yourusername.github.io  # ← replace with your GitHub username
-baseurl: /anya-site                  # ← replace with your repo name
+url: https://bill-hutchison.github.io  # ← replace with your GitHub username
+baseurl: /anyabershad-com                  # ← replace with your repo name
 last_updated: false
 impressum_path:
 
