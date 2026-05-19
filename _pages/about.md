@@ -17,7 +17,7 @@ profile:
 
 news: true
 selected_papers: true
-social: true
+social: false
 ---
 
 I lead the **Social Psychopharmacology Lab** at UCLA, studying how psychoactive drugs shape our capacity for human connection. My research asks a fundamental question: *how can we use medications to enhance social connection in psychiatric illness?*
