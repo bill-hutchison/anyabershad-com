@@ -146,11 +146,7 @@ keep_files:
 # Plugins
 # -----------------------------------------------------------------------------
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll/scholar
-  - jekyll-sitemap
+
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar (publications)
