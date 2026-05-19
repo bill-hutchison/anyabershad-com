@@ -147,7 +147,6 @@ keep_files:
 # -----------------------------------------------------------------------------
 
 plugins:
-plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll/scholar
