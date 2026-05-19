@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://yourusername.github.io/anya-site/sitemap.xml
+User-agent: * Disallow: Sitemap: https://bill-hutchison.github.io/anyabershad-com/sitemap.xml
