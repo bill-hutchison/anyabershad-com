@@ -8,25 +8,27 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg          # place your photo at assets/img/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Semel Institute</p>
-    <p>University of California, Los Angeles</p>
+    <p>760 Westwood Plaza</p>
     <p>Los Angeles, CA 90095</p>
+    <p>📞 310.794.7566</p>
+    <p>✉️ abershad@mednet.ucla.edu</p>
 
 news: true
 selected_papers: true
 social: false
 ---
 
-I lead the **Social Psychopharmacology Lab** at UCLA, studying how psychoactive drugs shape our capacity for human connection. My research asks a fundamental question: *how can we use medications to enhance social connection in psychiatric illness?*
+I am an Assistant Professor-in-Residence in the Department of Psychiatry at UCLA, and I direct the **Social Psychopharmacology Laboratory**, which aims to identify novel treatments for social symptoms of psychiatric illness.
 
-Social dysfunction spans the full spectrum of psychiatric diagnoses — from schizophrenia to depression to PTSD — and its effects on health and mortality rival those of smoking. Yet no pharmacological treatments specifically target social symptoms. My lab works to change that.
+My research investigates the effects of psychoactive drugs — including amphetamines, MDMA, LSD, and opioids — on social and emotional processing, with the aim of leveraging these effects in the treatment of psychiatric illness. I have a decade of experience designing, implementing, and publishing translational studies investigating the effects of Schedule I, II, and III drugs in humans.
 
-**Approach.** We run controlled human behavioral studies using MDMA, serotonergic psychedelics, opioids, and other compounds to probe the neuropharmacology of social motivation, affective processing, and interpersonal bonding. We combine behavioral assays, neuroimaging, and psychophysiology to understand mechanisms — and to identify treatments for social motivational deficits in schizophrenia and related disorders.
+In addition to my training as a physician, including three years of residency training in clinical psychiatry, I am a MAPS-certified MDMA psychotherapist. I have a background in social neuroscience, psychophysiology, and human behavioral psychopharmacology.
 
-**Background.** I completed my MD/PhD at the University of Chicago Pritzker School of Medicine, followed by psychiatry residency at UCLA. I am board-certified in psychiatry and affiliated with the [Stewart & Lynda Resnick Neuropsychiatric Hospital at UCLA](https://www.uclahealth.org/hospitals/resnick-neuropsychiatric) and the [ReConnect program](https://reconnect.ucla.edu/team-member/anya-bershad-md/).
+My laboratory at UCLA extends prior work in healthy volunteers to clinical populations. I have secured multiple VA and university-based grants, and a Brain and Behavior Research Foundation Young Investigator Grant to investigate pharmacological enhancement of social motivation in schizophrenia. In 2023, I received the **NIH Director's Early Independence Award** to conduct the first-ever clinical trial of MDMA in schizophrenia.
 
 ---
 
@@ -34,7 +36,7 @@ Social dysfunction spans the full spectrum of psychiatric diagnoses — from sch
 
 - Social neuroscience & affective neuroscience
 - Human behavioral psychopharmacology
-- MDMA, psychedelics, and opioids
+- MDMA, psychedelics & opioids
 - Schizophrenia & social motivational deficits
 - Humanities in medicine
 
@@ -44,15 +46,23 @@ Social dysfunction spans the full spectrum of psychiatric diagnoses — from sch
 
 <table style="width:100%;border:none;font-size:0.9rem;">
   <tr>
-    <td style="width:140px;color:#888;border:none;padding:6px 0;vertical-align:top;">2023 – present</td>
-    <td style="border:none;padding:6px 0;"><strong>Assistant Professor-in-Residence</strong><br>UCLA, Department of Psychiatry & Biobehavioral Sciences</td>
+    <td style="width:160px;color:#888;border:none;padding:6px 0;vertical-align:top;">2024 – present</td>
+    <td style="border:none;padding:6px 0;"><strong>Assistant Professor-In-Residence</strong><br>UCLA, Department of Psychiatry & Biobehavioral Sciences</td>
+  </tr>
+  <tr>
+    <td style="color:#888;border:none;padding:6px 0;vertical-align:top;">2023 – 2024</td>
+    <td style="border:none;padding:6px 0;"><strong>Health Sciences Assistant Professor</strong><br>UCLA, Department of Psychiatry & Biobehavioral Sciences</td>
   </tr>
   <tr>
     <td style="color:#888;border:none;padding:6px 0;vertical-align:top;">2019 – 2023</td>
-    <td style="border:none;padding:6px 0;"><strong>Psychiatry Residency</strong><br>UCLA David Geffen School of Medicine</td>
+    <td style="border:none;padding:6px 0;"><strong>Resident Physician</strong><br>UCLA-Semel Psychiatry Research Track</td>
   </tr>
   <tr>
-    <td style="color:#888;border:none;padding:6px 0;vertical-align:top;">2019</td>
-    <td style="border:none;padding:6px 0;"><strong>MD / PhD</strong><br>University of Chicago, Pritzker School of Medicine<br><em>PhD in Neuroscience</em></td>
+    <td style="color:#888;border:none;padding:6px 0;vertical-align:top;">2011 – 2019</td>
+    <td style="border:none;padding:6px 0;"><strong>MD</strong> (honors) & <strong>PhD, Integrative Neuroscience</strong><br>University of Chicago Medical Scientist Training Program</td>
+  </tr>
+  <tr>
+    <td style="color:#888;border:none;padding:6px 0;vertical-align:top;">2005 – 2010</td>
+    <td style="border:none;padding:6px 0;"><strong>BS</strong> Biological Sciences · <strong>BA</strong> Comparative Literature<br>Stanford University</td>
   </tr>
 </table>
