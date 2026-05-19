@@ -251,3 +251,4 @@ Biological Psychiatry · European Journal of Psychotraumatology · Journal of Ps
 | 2012 | Jackson Laboratory Short Course on the Genetics of Addiction, Bar Harbor, ME |
 
 </div>
+ 
